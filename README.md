@@ -6,10 +6,10 @@ This folder contains my hands-on practice with API testing using **Postman**, in
 
 ## 📂 Files Included
 
-- **API_Testing.postman_collection**
+- **API_Testing.postman_collection:**
   Basic API testing covering GET, POST, PUT, DELETE methods using [GoRest API](https://gorest.co.in/).
 
-- **Data_Driven_API_Testing.postman_collection**
+- **Data_Driven_API_Testing.postman_collection:**
   A Postman test suite with dynamic variables and CSV data for automated, data-driven testing.
 
 ---
